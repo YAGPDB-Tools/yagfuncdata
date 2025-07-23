@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/google/go-github/v55/github"
-	"github.com/jo3-l/yagfuncdata"
+	"github.com/YAGPDB-Tools/yagfuncdata"
 )
 
 var timeout = flag.Duration("timeout", 5*time.Second, "timeout for fetching data")

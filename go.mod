@@ -1,4 +1,4 @@
-module github.com/jo3-l/yagfuncdata
+module github.com/YAGPDB-Tools/yagfuncdata
 
 go 1.22
 

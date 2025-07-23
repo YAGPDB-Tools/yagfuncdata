@@ -14,7 +14,7 @@ $ lytfs
 Assuming that Go is installed, run the following on the command-line:
 
 ```bash
-$ go install github.com/jo3-l/yagfuncdata/cmd/lytfs@latest
+$ go install github.com/YAGPDB-Tools/yagfuncdata/cmd/lytfs@latest
 ```
 
 ## Why use `yagfuncdata`?

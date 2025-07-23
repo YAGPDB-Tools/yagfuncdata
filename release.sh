@@ -20,7 +20,7 @@ refresh-go-cache() {
     cd "/tmp/dummy"
 
     go mod init dummy
-    go get github.com/jo3-l/yagfuncdata/cmd/lytfs@"$VERSION"
+    go get github.com/YAGPDB-Tools/yagfuncdata/cmd/lytfs@"$VERSION"
 
     cd "$CUR_DIR"
     rm -rf "/tmp/dummy"
